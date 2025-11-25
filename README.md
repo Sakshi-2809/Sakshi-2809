@@ -46,13 +46,6 @@ Smooth creative CSS loader animation.
 <a href="https://github.com/Sakshi-2809"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-2809&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-2809&layout=compact&theme=tokyonight" height="160px"/>
-</p>
 
 ---
 
