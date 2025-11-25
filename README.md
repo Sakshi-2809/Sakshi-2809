@@ -30,6 +30,7 @@
 
 ### 🌟 Featured Projects  
 
+#### 🎨 **UI / HTML / CSS Projects**
 🔹 **Neon Text Effect**  
 Glowing animated text using CSS.  
 👉 [View Repo](https://github.com/Sakshi-2809/neon-text)
@@ -38,6 +39,26 @@ Glowing animated text using CSS.
 Smooth creative CSS loader animation.  
 👉 [View Repo](https://github.com/Sakshi-2809/buffer)
 
+🔹 **Glow Button**  
+Beautiful glowing animated button  
+👉 https://github.com/Sakshi-2809/Glow-Button  
+
+🔹 **Card Animation**  
+Cool animated card UI  
+👉 https://github.com/Sakshi-2809/card-anim  
+
+
+---
+
+#### 💻 **JavaScript / Logic-based Projects**
+🔹 **OTP Generator**  
+Generates a random OTP  
+👉 https://github.com/Sakshi-2809/OTP-Generator  
+
+🔹 **Current Time Generator**  
+Displays live digital time  
+👉 https://github.com/Sakshi-2809/Current-Time
+  
 ---
 
 ### 🔗 Connect With Me  
