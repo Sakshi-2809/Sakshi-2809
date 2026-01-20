@@ -30,7 +30,25 @@
 
 ### 🌟 Featured Projects  
 
-#### 🎨 **UI / HTML / CSS Projects**
+#### 💻 **Java / Multithreading Projects**
+- 🔹 **Rocket Launch** – Java project using `CountDownLatch` for synchronized threads  
+  👉 [Repo](https://github.com/Sakshi-2809/Rocket_Launch)  
+
+- 🔹 **GameLobby** – Simulates a multiplayer game lobby with threads & synchronization  
+  👉 [Repo](https://github.com/Sakshi-2809/GameLobby)  
+
+- 🔹 **HotelLockSystem** – Simulates hotel lock management using threads  
+  👉 [Repo](https://github.com/Sakshi-2809/HotelLockSystem)  
+
+- 🔹 **HotelDeadlockSystem** – Demonstrates deadlock scenarios and thread handling  
+  👉 [Repo](https://github.com/Sakshi-2809/HotelDeadlockSystem)  
+
+- 🔹 **HotelReentrantLock** – Uses `ReentrantLock` to safely manage threads  
+  👉 [Repo](https://github.com/Sakshi-2809/HotelReentrantLock)  
+
+---
+
+#### 🎨 **Frontend / UI Projects**
 🔹 **Neon Text Effect**  
 Glowing animated text using CSS.  
 👉 [View Repo](https://github.com/Sakshi-2809/neon-text)
