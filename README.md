@@ -40,7 +40,7 @@
 - 🔹 **HotelLockSystem** – Simulates hotel lock management using threads  
   👉 [View Repo](https://github.com/Sakshi-2809/HotelLockSystem)  
 
-- 🔹 **HotelDeadlockSystem** – Demonstrates deadlock scenarios and thread handling  
+- 🔹 **HotelDeadlockSystem** – Demonstrates `deadlock` scenarios and thread handling  
   👉 [View Repo](https://github.com/Sakshi-2809/HotelDeadlockSystem)  
 
 - 🔹 **HotelReentrantLock** – Uses `ReentrantLock` to safely manage threads  
