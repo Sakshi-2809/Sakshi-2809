@@ -32,19 +32,19 @@
 
 #### 💻 **Java / Multithreading Projects**
 - 🔹 **Rocket Launch** – Java project using `CountDownLatch` for synchronized threads  
-  👉 [Repo](https://github.com/Sakshi-2809/Rocket_Launch)  
+  👉 [View Repo](https://github.com/Sakshi-2809/Rocket_Launch)  
 
-- 🔹 **GameLobby** – Simulates a multiplayer game lobby with threads & synchronization  
-  👉 [Repo](https://github.com/Sakshi-2809/GameLobby)  
+- 🔹 **GameLobby** – Java multiplayer lobby using `CyclicBarrier` for synchronized player coordination  
+  👉 [View Repo](https://github.com/Sakshi-2809/GameLobby)  
 
 - 🔹 **HotelLockSystem** – Simulates hotel lock management using threads  
-  👉 [Repo](https://github.com/Sakshi-2809/HotelLockSystem)  
+  👉 [View Repo](https://github.com/Sakshi-2809/HotelLockSystem)  
 
 - 🔹 **HotelDeadlockSystem** – Demonstrates deadlock scenarios and thread handling  
-  👉 [Repo](https://github.com/Sakshi-2809/HotelDeadlockSystem)  
+  👉 [View Repo](https://github.com/Sakshi-2809/HotelDeadlockSystem)  
 
 - 🔹 **HotelReentrantLock** – Uses `ReentrantLock` to safely manage threads  
-  👉 [Repo](https://github.com/Sakshi-2809/HotelReentrantLock)  
+  👉 [View Repo](https://github.com/Sakshi-2809/HotelReentrantLock)  
 
 ---
 
@@ -59,11 +59,11 @@ Smooth creative CSS loader animation.
 
 🔹 **Glow Button**  
 Beautiful glowing animated button  
-👉 https://github.com/Sakshi-2809/Glow-Button  
+👉 [View Repo] https://github.com/Sakshi-2809/Glow-Button  
 
 🔹 **Card Animation**  
 Cool animated card UI  
-👉 https://github.com/Sakshi-2809/card-anim  
+👉 [View Repo] https://github.com/Sakshi-2809/card-anim  
 
 
 ---
@@ -71,11 +71,11 @@ Cool animated card UI
 #### 💻 **JavaScript / Logic-based Projects**
 🔹 **OTP Generator**  
 Generates a random OTP  
-👉 https://github.com/Sakshi-2809/OTP-Generator  
+👉 [View Repo] https://github.com/Sakshi-2809/OTP-Generator  
 
 🔹 **Current Time Generator**  
 Displays live digital time  
-👉 https://github.com/Sakshi-2809/Current-Time
+👉 [View Repo] https://github.com/Sakshi-2809/Current-Time
   
 ---
 
