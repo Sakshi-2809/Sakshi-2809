@@ -69,13 +69,16 @@ Cool animated card UI
 ---
 
 #### 💻 **JavaScript / Logic-based Projects**
+🔹 **Neon Calculator** – Stylish neon-themed calculator with animations  
+👉 [View Repo] https://github.com/Sakshi-2809/Neon-Calculator
+
 🔹 **OTP Generator**  
 Generates a random OTP  
 👉 [View Repo] https://github.com/Sakshi-2809/OTP-Generator  
 
 🔹 **Current Time Generator**  
 Displays live digital time  
-👉 [View Repo] https://github.com/Sakshi-2809/Current-Time
+👉 [View Repo] https://github.com/Sakshi-2809/Digital-Clock
   
 ---
 
